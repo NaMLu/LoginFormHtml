@@ -1,1 +1,12 @@
-asda
+body {background-color:#e5eef2;}
+.kalip {margin:0 auto;width:558px;}
+#form {float:left;margin-top:100px;width:558px;height:400px;background:url("../img/bg.png") no-repeat;}
+#form > .baslik {float:left;margin-top:83px;width:558px;text-align:center;font-family: 'Open Sans', sans-serif;color:#506d81;font-weight:700;font-size:15px;}
+#form > .aciklama {float:left;width:370px;margin-top:16px;margin-left:94px;text-align:center;font-family: 'Open Sans', sans-serif;color:#9da5b0;font-weight:400;font-size:14px;}
+#form .inputs {float:left;width:414x;margin-left:72px;margin-top:24px;}
+#form .inputs > input {float:left;border:0;font-family: 'PT Sans', sans-serif;font-size:16px;background-color:transparent;background-image:url("../img/input.png");width:154px;height:51px;padding:0 24px;color:#a3adb5;}
+#form .inputs > input:last-child {margin-left:9px;}
+#form .buttons {float:left;width:414x;margin-left:72px;margin-top:7px;}
+#form .buttons > button {border:0;width:202px;height:60px;font-size:18px;font-family: 'Roboto', sans-serif;color:#FFFFFF;border-radius:3px 3px 3px 3px;}
+#form .buttons > button:first-child {background-color:#82b541;box-shadow: 0 4px 0 #659725;}
+#form .buttons > button:last-child {background-color:#f07f4c;box-shadow: 0 4px 0 #da6632;margin-left:5px;}
